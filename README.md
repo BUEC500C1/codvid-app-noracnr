@@ -12,13 +12,13 @@ Stretch goal:
 
 
 ### Sprints
-###### STEP1: Setup your REACT Native Environment
-###### STEP2: Go through REACT native Tutorial
+###### STEP1: <a href="https://reactnative.dev/docs/environment-setup">Setup your REACT Native Environment</a>
+###### STEP2: <a href="https://reactnative.dev/docs/tutorial">Go through REACT native Tutorial</a>
 * Build Hello Applications
 * Run Hello applications on emulator and your phone.
 * It will be great to run it on two phones if you can (iOS and Android)
-###### STEP3: Develop use case to display a map.  (GitHub location)
-###### STEP4: On separate branch, exercise the CODVID-19 API (Documentation using postman) and display the data in your application as text.  Be fancy!  Style your results.
+###### STEP3: Develop use case to display a map.  (<a href="https://github.com/react-native-community/react-native-maps">GitHub location</a>)
+###### STEP4: On separate branch, exercise the <a href="https://covid19api.com/"> CODVID-19 API </a> and display the data in your application as text.  Be fancy!  Style your results.
 ###### STEP5: Overlay the data on the maps.
 
 
