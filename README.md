@@ -12,7 +12,17 @@ Stretch goal:
 
 
 ### Sprints
-###### STEP1: <a href="https://reactnative.dev/docs/environment-setup">Setup your REACT Native Environment</a>
+###### STEP1: <a href="https://reactnative.dev/docs/environment-setup">Setup your REACT Native Environment</a>[done]
+use React Native CLI on MAC OS, build for Android.
+download dependencies
+```bash
+brew install node
+brew install watchman
+brew cask install adoptopenjdk/openjdk/adoptopenjdk8
+```
+download Android Studio and SDK (Android 9)
+Configure the ANDROID_HOME environment variable in ~./zshrc
+
 ###### STEP2: <a href="https://reactnative.dev/docs/tutorial">Go through REACT native Tutorial</a>
 * Build Hello Applications
 * Run Hello applications on emulator and your phone.
