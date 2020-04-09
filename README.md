@@ -1,1 +1,26 @@
 # codvid-app-noracnr
+Build React Naive mobile app to display 
+1. CODVID cases per country on a MAP
+2. CODVID cases per country Live on a MAP (changes)
+3. CODVID cases per country based on a date.
+4. Summary of total cases for the world
+5. Live Summary for the World
+
+Stretch goal:
+* Display data per Province
+* User can put their address and track CODVID-19 in their neighborhood (Only in countries where regional data is provided)
+
+
+### Sprints
+###### STEP1: Setup your REACT Native Environment
+###### STEP2: Go through REACT native Tutorial
+* Build Hello Applications
+* Run Hello applications on emulator and your phone.
+* It will be great to run it on two phones if you can (iOS and Android)
+###### STEP3: Develop use case to display a map.  (GitHub location)
+###### STEP4: On separate branch, exercise the CODVID-19 API (Documentation using postman) and display the data in your application as text.  Be fancy!  Style your results.
+###### STEP5: Overlay the data on the maps.
+
+
+### Requirements
+https://docs.google.com/presentation/d/1R1i_fc9uAcSylbZ0uu6gma8cF5VG0DXqznYduvO1VCQ/edit#slide=id.g729a8d16a3_0_37
