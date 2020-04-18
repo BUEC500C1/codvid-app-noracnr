@@ -26,13 +26,13 @@ use React Native CLI on MAC OS, build for Android.
 #### STEP2: <a href="https://reactnative.dev/docs/tutorial">Go through REACT native Tutorial</a>
 * Build Hello Applications
   ```bash
-  npx react-native init HelloApp
+  npx react-native init Hello
   ```
 * Run Hello applications on emulator and your phone.
 1. Using a physical device
-My phone is OnePlus 7 Pro (Android 10,  Hy)
+My phone is OnePlus 7 Pro (Android Version: 10, Hydrogen OS 10.0.4.GM21,Processor:Snapdragon 855, Storage:6GB RAM + 128GB ROM)
 2. Using a virtual device
-On Android Studio
+On Android Studio (Pixel 2 API 29）
 * It will be great to run it on two phones if you can (iOS and Android)
 #### STEP3: Develop use case to display a map.  (<a href="https://github.com/react-native-community/react-native-maps">GitHub location</a>)
 #### STEP4: On separate branch, exercise the <a href="https://covid19api.com/"> CODVID-19 API </a> and display the data in your application as text.  Be fancy!  Style your results.
