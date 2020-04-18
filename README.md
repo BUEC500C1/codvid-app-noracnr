@@ -34,8 +34,12 @@ My phone is OnePlus 7 Pro (Android Version: 10, Hydrogen OS 10.0.4.GM21,Processo
 2. Using a virtual device
 On Android Studio (Pixel 3a API 28）
 * Result:
-code: [Hello](https://github.com/BUEC500C1/codvid-app-noracnr/tree/master/Hello)
-image: ![ScreenShot](/img/Screenshot_Hello.png)
+
+  code: [Hello](https://github.com/BUEC500C1/codvid-app-noracnr/tree/master/Hello)
+
+  image:
+  
+   <img src="/img/Screenshot_Hello.png" width=300 />
 
 #### STEP3: Develop use case to display a map.  (<a href="https://github.com/react-native-community/react-native-maps">GitHub location</a>)
 #### STEP4: On separate branch, exercise the <a href="https://covid19api.com/"> CODVID-19 API </a> and display the data in your application as text.  Be fancy!  Style your results.
