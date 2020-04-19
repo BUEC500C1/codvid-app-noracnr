@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CovidApp</string>
+    <string name="google_map_api_key">AIzaSyDH6gwc2fQ6WkQgreJfSydB_YdppB9Ps1s</string>
+</resources>
