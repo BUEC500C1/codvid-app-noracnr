@@ -88,7 +88,10 @@ use React Native CLI on MAC OS, build for Android.
   result:
   
   <img src="/img/Screenshot_map.png" width=300 />
-#### STEP4: On separate branch, exercise the <a href="https://covid19api.com/"> CODVID-19 API </a> and display the data in your application as text.  Be fancy!  Style your results.
+#### STEP4: On separate branch[covid-api](https://github.com/BUEC500C1/codvid-app-noracnr/tree/covid-api), exercise the <a href="https://covid19api.com/"> CODVID-19 API </a> and display the data in your application as text.  Be fancy!  Style your results.[done]
+
+* Check in [covid-api](https://github.com/BUEC500C1/codvid-app-noracnr/tree/covid-api) branch.
+
 #### STEP5: Overlay the data on the maps.
 
 
