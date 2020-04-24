@@ -10,6 +10,6 @@ Overlay the data on a MAP.
   npm install native-base --save
   ```
 * Result
-
-  <img src="./img/step5.gif" width=300 />
+  * Warning: need to wait a few seconds for loading data to carousel. 
+  * <img src="./img/step5.gif" width=300 />
 
