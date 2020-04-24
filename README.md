@@ -6,7 +6,8 @@ Build React Naive mobile app to display
 4. Summary of total cases for the world
 
 ### Final Result
-<img src="/step5/img/step5.gif" width=300 />
+* Warning: need to wait a few seconds for loading data to carousel. 
+* <img src="/step5/img/step5.gif" width=300 />
 
 ## Sprints
 #### STEP1: <a href="https://reactnative.dev/docs/environment-setup">Setup your REACT Native Environment</a>[done]
