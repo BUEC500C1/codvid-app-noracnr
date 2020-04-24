@@ -4,12 +4,9 @@ Build React Naive mobile app to display
 2. CODVID cases per country Live on a MAP (changes)
 3. CODVID cases per country based on a date.
 4. Summary of total cases for the world
-5. Live Summary for the World
 
-Stretch goal:
-* Display data per Province
-* User can put their address and track CODVID-19 in their neighborhood (Only in countries where regional data is provided)
-
+### Final Result
+<img src="/step5/img/step5.gif" width=300 />
 
 ## Sprints
 #### STEP1: <a href="https://reactnative.dev/docs/environment-setup">Setup your REACT Native Environment</a>[done]
@@ -92,7 +89,8 @@ use React Native CLI on MAC OS, build for Android.
 
 * Check in [covid-api](https://github.com/BUEC500C1/codvid-app-noracnr/tree/covid-api) branch.
 
-#### STEP5: Overlay the data on the maps.
+#### STEP5: Overlay the data on the maps.[done]
+* Check in [step5](/step5) package.
 
 
 ### Requirements
