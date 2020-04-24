@@ -11,5 +11,5 @@ Overlay the data on a MAP.
   ```
 * Result
 
-  <img src="/img/step5.gif" width=300 />
+  <img src="./img/step5.gif" width=300 />
 
