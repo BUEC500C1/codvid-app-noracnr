@@ -3,11 +3,19 @@ Build React Naive mobile app to display
 1. CODVID cases per country on a MAP
 2. CODVID cases per country Live on a MAP (changes)
 3. CODVID cases per country based on a date.
-4. Summary of total cases for the world
+4. 
 
-### Final Result
+### [Final Result](/step5)
 * Warning: need to wait a few seconds for loading data to carousel. 
-* <img src="/step5/img/step5.gif" width=300 />
+* How to run
+  ```bash
+  cd step5/covidApp
+  npm install
+  npx react-native run-android
+  ```
+##### Summary of total cases for the world
+
+<img src="/step5/img/step5.gif" width=300 />
 
 ## Sprints
 #### STEP1: <a href="https://reactnative.dev/docs/environment-setup">Setup your REACT Native Environment</a>[done]
