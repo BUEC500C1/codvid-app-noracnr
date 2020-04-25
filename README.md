@@ -13,9 +13,8 @@ Build React Naive mobile app to display
   npm install
   npx react-native run-android
   ```
-##### Summary of total cases for the world
-
-<img src="/step5/img/step5.gif" width=300 />
+* ##### result
+    <img src="/step5/img/step5.gif" width=300 />
 
 ## Sprints
 #### STEP1: <a href="https://reactnative.dev/docs/environment-setup">Setup your REACT Native Environment</a>[done]
